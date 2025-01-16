@@ -1,1 +1,11 @@
-[{"target":{"package_name":"com.metime.movingtower","sha256_cert_fingerprints":["2C:05:6E:3D:00:26:36:C7:8A:D0:4D:6F:35:2D:7D:7D:63:6B:3A:DA:E0:59:A8:B2:70:DF:6D:5C:97:2A:9B:FF"],"namespace":"android_app"},"relation":["delegate_permission/common.handle_all_urls"]}]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.metime.movingtower",
+      "sha256_cert_fingerprints":
+        ["2C:05:6E:3D:00:26:36:C7:8A:D0:4D:6F:35:2D:7D:7D:63:6B:3A:DA:E0:59:A8:B2:70:DF:6D:5C:97:2A:9B:FF"]
+    }
+  }
+]
